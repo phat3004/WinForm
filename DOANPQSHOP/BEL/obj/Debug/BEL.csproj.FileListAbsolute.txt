@@ -1,0 +1,5 @@
+D:\workspace\DOANPQSHOP\BEL\bin\Debug\BEL.dll
+D:\workspace\DOANPQSHOP\BEL\bin\Debug\BEL.pdb
+D:\workspace\DOANPQSHOP\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\workspace\DOANPQSHOP\BEL\obj\Debug\BEL.dll
+D:\workspace\DOANPQSHOP\BEL\obj\Debug\BEL.pdb

@@ -1,0 +1,7 @@
+D:\workspace\DOANPQSHOP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\DAL.dll
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\DAL.pdb
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\BEL.dll
+D:\workspace\DOANPQSHOP\DAL\bin\Debug\BEL.pdb
+D:\workspace\DOANPQSHOP\DAL\obj\Debug\DAL.dll
+D:\workspace\DOANPQSHOP\DAL\obj\Debug\DAL.pdb
